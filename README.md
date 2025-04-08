@@ -1,3 +1,5 @@
 # Deep-Learning-Assessments
 
-All the Rights Recived by SLIIT | Sri Lanka Institute of Information Technology
+© 2024 Sri Lanka Institute of Information Technology (SLIIT).  
+All rights reserved.
+
